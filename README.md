@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Dinil Hansara</h1>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hellow!+👋;+I'm+Dinil+Hansara!;" /><br>
+</div>
+
+------------------------
+
 <h3 align="center">A passionate frontend developer and UX enthusiast from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinilh&label=Profile%20views&color=0e75b6&style=flat" alt="dinilh" /> </p>
